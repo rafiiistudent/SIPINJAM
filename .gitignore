@@ -1,0 +1,21 @@
+# Java / NetBeans / Ant outputs
+build/
+dist/
+nbproject/private/
+nbproject/cache/
+*.class
+*.log
+*.war
+
+# Local database exports and backups may contain personal data
+*.sql
+*.sql.gz
+*.dump
+*.bak
+
+# IDE / operating system
+.netbeans/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
